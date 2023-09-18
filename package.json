@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "homepage": "https://github.io/Needlife1/tets",
   "scripts": {
     "start": "parcel src/index.html",
     "build": "parcel build src/index.html"
